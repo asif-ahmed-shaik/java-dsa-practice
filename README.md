@@ -2,10 +2,11 @@
 
 This repository documents my journey of learning Java and Data Structures & Algorithms.
 
-## 📚 Learning Resource
+## Learning Resource
 - Apna College - Java + DSA Playlist
+- W3schools - Java
 
-## 📂 Repository Structure
+## Repository Structure
 
 - 01-Introduction
 - 02-Variables *(Coming Soon)*
@@ -15,7 +16,7 @@ This repository documents my journey of learning Java and Data Structures & Algo
 - 06-Arrays *(Coming Soon)*
 - 07-Strings *(Coming Soon)*
 
-## 🎯 Goal
+## Goal
 
 - Learn Java from scratch.
 - Build a strong foundation in DSA.
