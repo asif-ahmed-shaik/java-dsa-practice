@@ -4,8 +4,8 @@ public class Variables {
 
         String name = "Asif Ahmed";
         int age = 20;
-        double cgpa = 7.20;
-        char grade = 'B';
+        double cgpa = 8.00;
+        char grade = 'A';
         boolean isStudent = true;
 
         String college = "VVITU";
